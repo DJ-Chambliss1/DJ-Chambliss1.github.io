@@ -39,8 +39,8 @@
         // example:
         createPlatform(287, 600);
         // example:
-        createPlatform(200, 370);
-        createPlatform(10, 460, .3);
+        createPlatform(278, 370);
+        createPlatform(8, 460, .3);
         createPlatform(100, 530, 0.5);
         createPlatform(250,200,);
         
